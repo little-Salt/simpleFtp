@@ -1,0 +1,10 @@
+# client folder
+out
+
+# server folder
+.vscode
+*.o
+ftpServer
+
+# misc
+.DS_Store
